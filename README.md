@@ -26,3 +26,7 @@ Python for backend development.
 LangChain for search and language processing.
 Gradio for interface.
 [https://drive.google.com/drive/folders/1jm-bezoVB0HFg6IKFe5VRPj6-GsZhTNU?usp=sharing](https://drive.google.com/drive/folders/1jm-bezoVB0HFg6IKFe5VRPj6-GsZhTNU) 
+Done By:
+@Nehal12-hammam
+@Faten-Ahmad-Diab
+@ReemYounis123
